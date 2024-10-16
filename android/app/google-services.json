@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "504464896159",
+    "project_id": "ambiente-avalia-31e35",
+    "storage_bucket": "ambiente-avalia-31e35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504464896159:android:bb8a738c1ccfea146bf2aa",
+        "android_client_info": {
+          "package_name": "competrobras.ambienteavalia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDKDwiX5ZCXTksP5dS2VPBdHws2L79Iik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
